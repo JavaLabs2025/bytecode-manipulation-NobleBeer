@@ -1,0 +1,7 @@
+{
+  "maxDepthOfInheritance" : 2,
+  "averageInheritanceDepth" : 1.5,
+  "averageOverriddenMethods" : 1.0,
+  "averageFieldCount" : 0.7,
+  "averageAbcScore" : 0.7234898064243891
+}
